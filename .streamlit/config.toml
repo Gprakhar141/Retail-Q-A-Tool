@@ -1,0 +1,3 @@
+[server]
+# Prevent source watcher from probing torch/transformers internals and spamming logs.
+fileWatcherType = "none"

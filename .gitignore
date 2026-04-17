@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoints
+retail_qa
+chroma_vectorstore.pkl
+secret_key.py
+.env
